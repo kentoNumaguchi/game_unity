@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 public class contlloer : MonoBehaviour {
-	private int speed = 10;
+	private int speed = 20;
 
 	// Use this for initialization
 	void Start () {
